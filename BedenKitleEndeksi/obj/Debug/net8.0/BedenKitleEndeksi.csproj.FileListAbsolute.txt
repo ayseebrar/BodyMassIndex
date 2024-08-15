@@ -1,0 +1,14 @@
+C:\C#Dersleri\Deneme\BedenKitleEndeksi\obj\Debug\net8.0\BedenKitleEndeksi.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Dersleri\Deneme\BedenKitleEndeksi\obj\Debug\net8.0\BedenKitleEndeksi.AssemblyInfoInputs.cache
+C:\C#Dersleri\Deneme\BedenKitleEndeksi\obj\Debug\net8.0\BedenKitleEndeksi.AssemblyInfo.cs
+C:\C#Dersleri\Deneme\BedenKitleEndeksi\obj\Debug\net8.0\BedenKitleEndeksi.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\Deneme\BedenKitleEndeksi\bin\Debug\net8.0\BedenKitleEndeksi.exe
+C:\C#Dersleri\Deneme\BedenKitleEndeksi\bin\Debug\net8.0\BedenKitleEndeksi.deps.json
+C:\C#Dersleri\Deneme\BedenKitleEndeksi\bin\Debug\net8.0\BedenKitleEndeksi.runtimeconfig.json
+C:\C#Dersleri\Deneme\BedenKitleEndeksi\bin\Debug\net8.0\BedenKitleEndeksi.dll
+C:\C#Dersleri\Deneme\BedenKitleEndeksi\bin\Debug\net8.0\BedenKitleEndeksi.pdb
+C:\C#Dersleri\Deneme\BedenKitleEndeksi\obj\Debug\net8.0\BedenKitleEndeksi.dll
+C:\C#Dersleri\Deneme\BedenKitleEndeksi\obj\Debug\net8.0\refint\BedenKitleEndeksi.dll
+C:\C#Dersleri\Deneme\BedenKitleEndeksi\obj\Debug\net8.0\BedenKitleEndeksi.pdb
+C:\C#Dersleri\Deneme\BedenKitleEndeksi\obj\Debug\net8.0\BedenKitleEndeksi.genruntimeconfig.cache
+C:\C#Dersleri\Deneme\BedenKitleEndeksi\obj\Debug\net8.0\ref\BedenKitleEndeksi.dll
